@@ -1,0 +1,4 @@
+﻿  lab7ilona_char.cpp
+D:\labs\OaIP\lab7ilona_char\lab7ilona_char.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\labs\OaIP\lab7ilona_char\lab7ilona_char.cpp(34,19): warning C4018: <: несоответствие типов со знаком и без знака
+  lab7ilona_char.vcxproj -> D:\labs\OaIP\lab7ilona_char\Debug\lab7ilona_char.exe
